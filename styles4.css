@@ -1,0 +1,16 @@
+.negyedik {
+    display: flex;
+    width: 100%;
+    height: 400pt;
+    background-color: yellow;
+    align-items: end;
+    justify-content: end;
+}
+
+#lila {
+    background-color: purple;
+    width: 100pt;
+    height: 100pt;
+    margin-left: 6px;
+
+}
